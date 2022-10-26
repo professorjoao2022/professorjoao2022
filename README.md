@@ -1,4 +1,7 @@
 - 👋 Olá, sou o Professor João
-- 📧 Meu e-mail de contato é: santos.joao4@escola.pr.gov.br;
 - 👀 Estou interessado em compartilhar conhecimento sobre programação;
 - 💞️ Sou estudante de programação;
+- 📧 Meu e-mail de contato é: santos.joao4@escola.pr.gov.br;
+- 📌 Instagram: @joaozinhocamargoteclas
+- 📌 Facebook: @joaozynho
+- 📌 Youtube: Youtube.com/joaoazynhocamargo
