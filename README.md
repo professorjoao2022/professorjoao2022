@@ -1,4 +1,4 @@
-- 👋 HOlá, sou o Professor João
+- 👋 Olá, sou o Professor João
 - 📧 Meu e-mail de contato é: santos.joao4@escola.pr.gov.br;
 - 👀 Estou interessado em compartilhar conhecimento sobre programação;
 - 💞️ Sou estudante de programação;
